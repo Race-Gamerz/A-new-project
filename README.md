@@ -45,14 +45,8 @@ Step-by-step instructions on how to install and set up your project locally.
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/repo-name.git
+git clone https://github.com/Race-Gamerz/A-new-project
 
 # Navigate to the project directory
-cd repo-name
-
-# Install dependencies
-npm install  # or yarn install, pip install, etc.
-
-# Run the project
-npm start    # or yarn start, python main.py, etc.
+cd A-new-project
 
